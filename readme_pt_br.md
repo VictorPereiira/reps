@@ -52,10 +52,11 @@ $ cd typing-game
 
 <h2 id="howToContribute">Como contribuir</h2>
 
-- Make a fork;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit changes: `git commit -m "feat: my new feature`;
-- Make a push to your branch: `git push origin my-feature`.
+- Faça um Fork;
+- Crie uma branch com sua funcionalidade: git checkout -b my-feature;
+- Commit as alterações: git commit -m "feat: my new feature;
+- Faça um push da sua branch: git push origin my-feature.
+
   
 <p>After meging your receipt request to done, you can delete a branch from yours.</p>
 
