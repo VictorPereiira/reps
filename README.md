@@ -24,7 +24,7 @@
 
 <div align="center">
     Translate for 
-    <a href="./github/readme_pt_br.md">PT-BR</a> 
+    <a href="readme_pt_br.md">PT-BR</a> 
 </div>
 
 ## About
